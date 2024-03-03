@@ -9,7 +9,7 @@ nav_order: 1
 
 ### peer reviewed articles
 <br>
-**Narayan Sankaran**, Matthew Leonard, Frederic Theunissen, and Edward Chang (2023). [Encoding of melody in human auditory cortex.](https://www.science.org/doi/10.1126/sciadv.adk0010) *Science Advances.*
+**Narayan Sankaran**, Matthew Leonard, Frederic Theunissen, and Edward Chang (2024). [Encoding of melody in human auditory cortex.](https://www.science.org/doi/10.1126/sciadv.adk0010) *Science Advances.*
 <br>
 
 **Narayan Sankaran**, David Moses, Winston Chiong, and Edward Chang (2023). [Recommendations for promoting user agency in the design of speech neuroprostheses.](https://www.frontiersin.org/articles/10.3389/fnhum.2023.1298129/full) *Frontiers in Human Neuroscience.*
