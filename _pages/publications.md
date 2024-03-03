@@ -13,8 +13,8 @@ nav_order: 1
 <br>
 
 **Narayan Sankaran**, David Moses, Winston Chiong, and Edward Chang (2023). [Recommendations for promoting user agency in the design of speech neuroprostheses.](https://www.frontiersin.org/articles/10.3389/fnhum.2023.1298129/full) *Frontiers in Human Neuroscience.*
-
 <br>
+
 Perry, Gemma, Vince Polito, **Narayan Sankaran**, and William Forde Thompson (2022). How Chanting Relates to Cognitive Function, Altered States and Quality of Life. *Brain Sciences.*
 <br>
 
